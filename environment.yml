@@ -3,7 +3,7 @@ channels:
  - conda-forge
 dependencies:
  - numpy
- - psutils
+ - psutil
  - bqplot
  - ipyvolume
  - scipy
