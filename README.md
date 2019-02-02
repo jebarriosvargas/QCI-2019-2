@@ -2,6 +2,6 @@
 
 Sitio donde se alojan algunas prácticas del curso
 
-## Ambiente a usar
+## Requisitos
 
 [ANACONDA](https://www.anaconda.com/distribution/) - Paquete de python
