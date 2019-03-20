@@ -1,11 +1,13 @@
-name: topins
+name: QCI
 channels:
  - conda-forge
- - damianavila82
 dependencies:
+ - numpy
+ - psutils
  - bqplot
  - ipyvolume
  - scipy
+ - matplotlib
  - ipywidgets>=6.0.0
  - rise
- - matplotlib
+ - pandas
