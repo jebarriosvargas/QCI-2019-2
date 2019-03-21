@@ -2,13 +2,15 @@ name: QCI
 channels:
  - conda-forge
 dependencies:
+ - python
  - numpy
- - psutil
- - bqplot
- - ipyvolume
- - scipy
- - matplotlib
- - ipywidgets>=6.0.0
- - rise
- - pandas
- - seaborn
+ - pip:
+   - psutil
+   - bqplot
+   - ipyvolume
+   - scipy
+   - matplotlib
+   - ipywidgets
+   - rise
+   - pandas
+   - seaborn
